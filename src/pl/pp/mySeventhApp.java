@@ -2,7 +2,7 @@ package pl.pp;
 
 //7
 
-public class mySixthApp {
+public class mySeventhApp {
 
     public static void main(String[] args) {
         int n = 20; // You can change this number to test other values
