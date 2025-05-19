@@ -1,5 +1,7 @@
 package pl.pp;
 
+//7
+
 public class mySixthApp {
 
     public static void main(String[] args) {
