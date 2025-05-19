@@ -1,4 +1,6 @@
-public class myFifthApp {
+package pl.pp;
+
+public class mySixthApp {
 
     public static void main(String[] args) {
         int n = 20; // You can change this number to test other values
